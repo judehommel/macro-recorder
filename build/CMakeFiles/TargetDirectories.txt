@@ -1,0 +1,3 @@
+/home/judehommel/Projects/macro-recorder/build/CMakeFiles/main.dir
+/home/judehommel/Projects/macro-recorder/build/CMakeFiles/edit_cache.dir
+/home/judehommel/Projects/macro-recorder/build/CMakeFiles/rebuild_cache.dir
